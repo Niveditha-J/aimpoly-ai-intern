@@ -1,5 +1,4 @@
-# AI CODE REVIEWER PRO -
-=============================
+# AI CODE REVIEWER PRO 
 
 AI Code Reviewer Pro is a professional-grade, local-first code analysis dashboard. 
 It combines static heuristics, vector embeddings, and Large Language Models (LLMs) 
