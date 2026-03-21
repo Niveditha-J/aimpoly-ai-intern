@@ -1,7 +1,7 @@
-==================================================
+
 📄 Resume Screening AI
 Semantic Resume Matcher powered by Hugging Face Transformers
-==================================================
+
 
 The Resume Screening AI is a high-performance recruitment tool designed to automate the initial candidate screening process.
 
