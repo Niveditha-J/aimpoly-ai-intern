@@ -120,6 +120,5 @@ Feel free to:
 Submit a pull request or open an issue.
 
 
-==================================================
+
 Developed with ❤️ using Python and Hugging Face
-==================================================
