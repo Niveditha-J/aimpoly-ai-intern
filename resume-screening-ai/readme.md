@@ -1,5 +1,5 @@
 
-#### 📄 Resume Screening AI
+# 📄 Resume Screening AI
 Semantic Resume Matcher powered by Hugging Face Transformers
 
 
