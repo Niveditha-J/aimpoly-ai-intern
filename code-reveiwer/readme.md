@@ -1,4 +1,4 @@
-AI CODE REVIEWER PRO - README
+# AI CODE REVIEWER PRO -
 =============================
 
 AI Code Reviewer Pro is a professional-grade, local-first code analysis dashboard. 
@@ -7,7 +7,7 @@ to provide deep insights into code quality, security, and performance without
 sending your data to the cloud.
 
 --------------------------------------------------------------------------------
-1. SETUP STEPS
+## 1. SETUP STEPS
 --------------------------------------------------------------------------------
 
 Prerequisites:
@@ -25,7 +25,7 @@ Running the Application:
 2. The application will open in your default web browser at http://localhost:8501.
 
 --------------------------------------------------------------------------------
-2. TOOLS & TECHNOLOGIES USED
+## 2. TOOLS & TECHNOLOGIES USED
 --------------------------------------------------------------------------------
 
 - Frontend: Streamlit (High-performance web framework for Python)
@@ -36,7 +36,7 @@ Running the Application:
 - Analysis: Regex & Static Heuristics (For complexity and safety checks)
 
 --------------------------------------------------------------------------------
-3. HOW THE SYSTEM WORKS
+## 3. HOW THE SYSTEM WORKS
 --------------------------------------------------------------------------------
 
 The AI Code Reviewer Pro uses a Hybrid Analysis Pipeline to evaluate code across 
@@ -59,7 +59,7 @@ Layer 3: LLM Reasoning (The "Intelligence" Layer)
 - Generates suggested refactored code blocks.
 
 --------------------------------------------------------------------------------
-4. KEY FEATURES
+## 4. KEY FEATURES
 --------------------------------------------------------------------------------
 
 - Real-time Dashboard: Visual metrics for Quality and ML Pattern Matching.
