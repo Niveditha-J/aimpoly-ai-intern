@@ -1,16 +1,16 @@
-==================================================
-📄 Resume Screening AI
+
+# 📄 Resume Screening AI
 Semantic Resume Matcher powered by Hugging Face Transformers
-==================================================
+
 
 The Resume Screening AI is a high-performance recruitment tool designed to automate the initial candidate screening process.
 
 Unlike traditional keyword-based filters, this system uses Natural Language Processing (NLP) to understand the semantic meaning of resumes and job descriptions, ensuring that qualified candidates are not overlooked due to terminology differences.
 
 
-==================================================
-🛠 Tools & Technologies Used
-==================================================
+
+##  🛠 Tools & Technologies Used
+
 
 Category           : Technology                  : Description
 --------------------------------------------------------------
@@ -22,9 +22,7 @@ Mathematics        : Scikit-Learn                : Cosine similarity calculation
 Data Handling      : NumPy                       : Numerical operations and arrays
 
 
-==================================================
-🚀 Setup & Installation
-==================================================
+## 🚀 Setup & Installation
 
 1. Clone the Repository
 
@@ -54,9 +52,9 @@ pip install streamlit pypdf2 sentence-transformers scikit-learn numpy
 streamlit run app.py
 
 
-==================================================
-🧠 How the System Works
-==================================================
+
+## 🧠 How the System Works
+
 
 1. Text Extraction
 The system extracts text from uploaded PDF resumes using PyPDF2 and prepares it for processing.
@@ -80,9 +78,8 @@ Potential Match   : 50% to 79%
 Low Match         : Below 50%
 
 
-==================================================
-🌟 Key Features
-==================================================
+## 🌟 Key Features
+
 
 • Batch Processing:
   Upload multiple resumes and get ranked results instantly.
@@ -97,9 +94,9 @@ Low Match         : Below 50%
   Optimized transformer model that runs efficiently on CPU.
 
 
-==================================================
-📂 Project Structure
-==================================================
+
+## 📂 Project Structure
+
 
 resume-screening-ai/
 │
@@ -109,9 +106,9 @@ resume-screening-ai/
 └── resumes/            # Optional sample resumes
 
 
-==================================================
-🤝 Contributing
-==================================================
+
+## 🤝 Contributing
+
 
 Contributions are welcome.
 
@@ -123,6 +120,5 @@ Feel free to:
 Submit a pull request or open an issue.
 
 
-==================================================
+
 Developed with ❤️ using Python and Hugging Face
-==================================================
